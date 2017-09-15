@@ -36,7 +36,21 @@ namespace exampleApi.Controllers
         [HttpGet("{id}")]
         public ActionResult GetOne(long id)
         {
-            return Json(_context.Users.Where(user => user.Id == id).ToList()[0]);  
+            return Json(_context.Users.Find(id, "yiggy"));  
+        }
+        [HttpPost]
+        public ActionResult Create([FromBody] User person)
+        {
+            _context.Users.Add(person);
+            _context.SaveChanges();
+            return Json(person.Name);
+        }
+        [HttpDelete("{id}")]
+        public ActionResult del(long id)
+        {
+            _context.Users.Remove(_context.Users.Find(id));
+            _context.SaveChanges();
+            return Json(_context.Users);
         }
     }
 }
