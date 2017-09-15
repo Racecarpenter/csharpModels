@@ -52,5 +52,14 @@ namespace exampleApi.Controllers
             _context.SaveChanges();
             return Json(_context.Users);
         }
+        [HttpPatch("{id}")]
+        public ActionResult patches([FromBody] User person, long id)
+        {
+            User user = _context.Users.Find(id);
+            user.Name = person.Name;
+            user.Id = id;
+            _context.SaveChanges();
+            return Json(_context.Users);
+        }
     }
 }
