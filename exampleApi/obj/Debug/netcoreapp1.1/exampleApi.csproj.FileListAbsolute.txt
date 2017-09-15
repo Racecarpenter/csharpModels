@@ -1,0 +1,10 @@
+/Users/troy.amelotte/Projects/exampleApi/exampleApi/bin/Debug/netcoreapp1.1/exampleApi.deps.json
+/Users/troy.amelotte/Projects/exampleApi/exampleApi/bin/Debug/netcoreapp1.1/exampleApi.runtimeconfig.json
+/Users/troy.amelotte/Projects/exampleApi/exampleApi/bin/Debug/netcoreapp1.1/exampleApi.runtimeconfig.dev.json
+/Users/troy.amelotte/Projects/exampleApi/exampleApi/bin/Debug/netcoreapp1.1/exampleApi.dll
+/Users/troy.amelotte/Projects/exampleApi/exampleApi/bin/Debug/netcoreapp1.1/exampleApi.pdb
+/Users/troy.amelotte/Projects/exampleApi/exampleApi/obj/Debug/netcoreapp1.1/exampleApi.csprojResolveAssemblyReference.cache
+/Users/troy.amelotte/Projects/exampleApi/exampleApi/obj/Debug/netcoreapp1.1/exampleApi.csproj.CoreCompileInputs.cache
+/Users/troy.amelotte/Projects/exampleApi/exampleApi/obj/Debug/netcoreapp1.1/exampleApi.AssemblyInfo.cs
+/Users/troy.amelotte/Projects/exampleApi/exampleApi/obj/Debug/netcoreapp1.1/exampleApi.dll
+/Users/troy.amelotte/Projects/exampleApi/exampleApi/obj/Debug/netcoreapp1.1/exampleApi.pdb
