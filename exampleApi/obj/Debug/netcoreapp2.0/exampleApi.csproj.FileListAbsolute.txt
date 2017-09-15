@@ -1,0 +1,11 @@
+/Users/racecarpenter/Projects/Q4/week01/csharpModels/exampleApi/bin/Debug/netcoreapp2.0/exampleApi.deps.json
+/Users/racecarpenter/Projects/Q4/week01/csharpModels/exampleApi/bin/Debug/netcoreapp2.0/exampleApi.runtimeconfig.json
+/Users/racecarpenter/Projects/Q4/week01/csharpModels/exampleApi/bin/Debug/netcoreapp2.0/exampleApi.runtimeconfig.dev.json
+/Users/racecarpenter/Projects/Q4/week01/csharpModels/exampleApi/bin/Debug/netcoreapp2.0/exampleApi.dll
+/Users/racecarpenter/Projects/Q4/week01/csharpModels/exampleApi/bin/Debug/netcoreapp2.0/exampleApi.pdb
+/Users/racecarpenter/Projects/Q4/week01/csharpModels/exampleApi/obj/Debug/netcoreapp2.0/exampleApi.csprojResolveAssemblyReference.cache
+/Users/racecarpenter/Projects/Q4/week01/csharpModels/exampleApi/obj/Debug/netcoreapp2.0/exampleApi.csproj.CoreCompileInputs.cache
+/Users/racecarpenter/Projects/Q4/week01/csharpModels/exampleApi/obj/Debug/netcoreapp2.0/exampleApi.AssemblyInfoInputs.cache
+/Users/racecarpenter/Projects/Q4/week01/csharpModels/exampleApi/obj/Debug/netcoreapp2.0/exampleApi.AssemblyInfo.cs
+/Users/racecarpenter/Projects/Q4/week01/csharpModels/exampleApi/obj/Debug/netcoreapp2.0/exampleApi.dll
+/Users/racecarpenter/Projects/Q4/week01/csharpModels/exampleApi/obj/Debug/netcoreapp2.0/exampleApi.pdb
